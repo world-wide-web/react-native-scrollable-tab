@@ -1,5 +1,5 @@
 {
-  "name": "react-native-scrollable-tab",
+  "name": "react-native-scrollable-tabs",
   "version": "0.0.1",
   "description": "",
   "main": "scrollableTab.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocman/react-native-scrollable-tab.git"
+    "url": "git+https://github.com/world-wide-web/react-native-scrollable-tabs.git"
   },
   "keywords": [
     "react-native-component",
@@ -18,10 +18,20 @@
     "tab",
     "scrollable"
   ],
-  "author": "Rocman Zhao",
+  "author": "rocman",
+  "maintainers": [
+    {
+      "name": "world-wide-web",
+      "email": "world-wide-web@foxmail.com>"
+    },
+    {
+      "name": "rocman",
+      "email": "rocman@vip.qq.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rocman/react-native-scrollable-tab/issues"
+    "url": "https://github.com/world-wide-web/react-native-scrollable-tabs/issues"
   },
-  "homepage": "https://github.com/rocman/react-native-scrollable-tab#readme"
+  "homepage": "https://github.com/world-wide-web/react-native-scrollable-tabs#readme"
 }
